@@ -244,5 +244,23 @@
       256, 
       512
     ]
+  }, 
+  "conv2d_7/kernel": {
+    "filename": "conv2d_7_kernel", 
+    "shape": [
+      3, 
+      3, 
+      512, 
+      1024
+    ]
+  }, 
+  "conv2d_8/kernel": {
+    "filename": "conv2d_8_kernel", 
+    "shape": [
+      3, 
+      3, 
+      1024, 
+      1024
+    ]
   }
 }

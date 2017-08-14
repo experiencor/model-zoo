@@ -235,5 +235,14 @@
       128, 
       256
     ]
+  }, 
+  "conv2d_6/kernel": {
+    "filename": "conv2d_6_kernel", 
+    "shape": [
+      3, 
+      3, 
+      256, 
+      512
+    ]
   }
 }
